@@ -2,11 +2,7 @@
 
 A Flutter-based clone of the **MCB Live** banking app login screen. This project replicates the UI of MCB Bank Limited's mobile banking login page, including authentication fields, quick actions, and navigation options.
 
-## 📱 Screenshot
-
-![App Screenshot](assets/output.jpg)
-
-## ✨ Features
+## Features
 
 - Clean and responsive login UI with background image
 - Username and password input fields with validation styling
@@ -22,21 +18,21 @@ A Flutter-based clone of the **MCB Live** banking app login screen. This project
 - Live Chat support shortcut
 - Version display (2.24.800280)
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Framework:** Flutter 3.8.1+
 - **Language:** Dart
 - **Icons:** Cupertino Icons, Material Icons
 - **Tools:** Flutter Launcher Icons, Flutter Lints
 
-## 📋 Prerequisites
+## Prerequisites
 
 - Flutter SDK (>=3.8.1)
 - Dart SDK
 - Android Studio / VS Code with Flutter extensions
 - iOS Simulator / Android Emulator / Web browser
 
-## 🚀 Getting Started
+## Getting Started
 
 1. **Clone the repository**
    ```bash
@@ -54,7 +50,7 @@ A Flutter-based clone of the **MCB Live** banking app login screen. This project
    flutter run
    ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 lib/
@@ -75,16 +71,21 @@ assets/
     └── bank_edit.png        # Open account icon
 ```
 
-## 📦 Dependencies
+## Dependencies
 
 - `cupertino_icons`: ^1.0.8
 - `flutter_launcher_icons`: ^0.14.4
 - `flutter_lints`: ^6.0.0
 
-## 📄 License
+
+## Screenshot
+
+![App Screenshot](assets/output.jpg)
+
+
+## License
 
 This project is for educational purposes only. MCB Bank and MCB Live are trademarks of MCB Bank Limited. This is a UI clone and is not affiliated with or endorsed by MCB Bank.
 
 ---
 
-Built with ❤️ using Flutter.
